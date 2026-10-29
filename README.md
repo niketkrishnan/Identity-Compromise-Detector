@@ -51,6 +51,6 @@ A new country or network ASN is not proof of compromise. VPNs, travel, shared de
 - [LLM Firewall and RAG Security Lab](https://github.com/niketkrishnan/llm-firewall-rag-security-lab) — prompt and tool trust boundaries.
 - [Cloud Attack-Path Prioritizer](https://github.com/niketkrishnan/cloud-attack-path-prioritizer) — exposure paths to sensitive assets.
 - [SBOM Supply-Chain Intelligence](https://github.com/niketkrishnan/sbom-supply-chain-intelligence) — dependency policy context.
-- [Portfolio site]([https://github.com/niketkrishnan/HTML-Website](https://niketkrishnan.github.io)) — resume-aligned project map.
+- [Portfolio site](https://niketkrishnan.github.io) — resume-aligned project map.
 
 For security concerns, use a private GitHub Security Advisory or contact [@niketkrishnan](https://github.com/niketkrishnan). Do not publish real identity events, tokens, or user identifiers.
